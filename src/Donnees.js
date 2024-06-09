@@ -213,11 +213,11 @@ const Donnees = {
                             "laurent",
                             "donner a manger a mon gros chat"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "mb",
+                        savoirEtre: "Autonomie - Travail d'équipe - Curiosité - Analyse des besoins - Adaptabilité - ",
+                        contexte: "Dans le cadre de mon alternance, je suis responsable de la communication digitale des magasins Maréchal & Brilleaud, Ambiance & Styles Brest et Culinarion Brest. J’ai également été chargé de créer et promouvoir des événements pour les 100 ans de Maréchal & Brilleaud en 2023 !",
+                        titre: "Maréchal & Brilleaud",
                         sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        lien: "https://www.instagram.com/marechalbrilleaud/"
                     }
                 },
                 {
