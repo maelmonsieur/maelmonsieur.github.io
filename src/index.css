@@ -241,7 +241,7 @@ box-shadow: inset 0px -11px 34px -16px rgba(0,0,0,0.57);
 }
 
 .scroll-animation {
-    z-index: 101;
+    z-index: 99;
     width: 100px;
     height: 100px;
 }
