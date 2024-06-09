@@ -210,7 +210,7 @@ const Donnees = {
                         ],
                         missions: [
                             "tueur",
-                            "chatouilleur",
+                            "laurent",
                             "donner a manger a mon gros chat"
                         ],
                         savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
