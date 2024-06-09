@@ -1,8 +1,8 @@
 import mael from "./assets/img/qui_suis_je.jpg";
 //import { SiAdobephotoshop, SiFigma, SiAdobeillustrator, SiAdobeaftereffects, SiAdobepremierepro  } from "react-icons/si";
 import { SiAdobephotoshop, SiFigma  } from "react-icons/si";
-import { BiLogoBlender } from "react-icons/bi";
-import { FaWordpress } from "react-icons/fa";
+//import { BiLogoBlender } from "react-icons/bi";
+//import { FaWordpress } from "react-icons/fa";
 
 const Donnees = {
     quiSuisJe: {
