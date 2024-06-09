@@ -1,8 +1,8 @@
 import mael from "./assets/img/qui_suis_je.jpg";
-//import { SiAdobephotoshop, SiFigma, SiAdobeillustrator, SiAdobeaftereffects, SiAdobepremierepro  } from "react-icons/si";
+import { SiAdobephotoshop, SiFigma, SiAdobeillustrator, SiAdobeaftereffects, SiAdobepremierepro  } from "react-icons/si";
 import { SiAdobephotoshop, SiFigma  } from "react-icons/si";
-//import { BiLogoBlender } from "react-icons/bi";
-//import { FaWordpress } from "react-icons/fa";
+import { BiLogoBlender } from "react-icons/bi";
+import { FaWordpress } from "react-icons/fa";
 
 import mb from "./assets/img/mb.jpg"
 import troisde from "./assets/img/3d.jpg"
@@ -206,7 +206,9 @@ const Donnees = {
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
-                            {nom: "Figma", Component: SiFigma}
+                            {nom: "Premiere Pro", Component: SiAdobepremierepro},
+                            {nom: "After Effects", Component: SiAdobeaftereffects},
+                            {nom: "Illustrator", Component: SiAdobeillustrator}
                         ],
                         missions: [
                             "Alimentation des réseaux sociaux",
