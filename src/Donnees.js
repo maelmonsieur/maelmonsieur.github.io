@@ -209,9 +209,9 @@ const Donnees = {
                             {nom: "Figma", Component: SiFigma}
                         ],
                         missions: [
-                            "tueur",
-                            "laurent",
-                            "donner a manger a mon gros chat"
+                            "Alimentation des réseaux sociaux",
+                            "Organisation d’événements pour les 100 ans de l’enseigne",
+                            "Collaboration avec une agence de communication (Des Ronds Dans l’Eau)"
                         ],
                         savoirEtre: "Autonomie - Travail d'équipe - Curiosité - Analyse des besoins - Adaptabilité - ",
                         contexte: "Dans le cadre de mon alternance, je suis responsable de la communication digitale des magasins Maréchal & Brilleaud, Ambiance & Styles Brest et Culinarion Brest. J’ai également été chargé de créer et promouvoir des événements pour les 100 ans de Maréchal & Brilleaud en 2023 !",
