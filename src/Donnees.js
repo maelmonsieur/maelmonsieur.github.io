@@ -361,9 +361,10 @@ const Donnees = {
                             {nom: "Premiere Pro", Component: SiAdobepremierepro}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Audit de communication",
+                            "Interview d’un membre",
+                            "Ré-édition d’un livre",
+                            "Mise en place d’une exposition"
                         ],
                         savoirEtre: "Travail d'équipe - Analyse des besoins - Créativité - Adaptabilité - Autonomie - ",
                         contexte: "ArmorScience est une association basée à Pleumeur-Bodou, qui oeuvre pour la diffusion de la culture scientifique en Bretagne. Lors de ma première année de BUT MMI, j’ai collaboré avec des membres de cette association dans le but de développer leur communication.",
