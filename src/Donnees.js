@@ -319,16 +319,18 @@ const Donnees = {
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
-                            {nom: "Figma", Component: SiFigma}
+                            {nom: "Figma", Component: SiFigma},
+                            {nom: "Premiere Pro", Component: SiAdobepremierepro}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Analyse des besoins",
+                            "Gestion d’une équipe et des conflits",
+                            "Création d’une vidéo publicitaire pour TikTok",
+                            "Mise en pratique de la méthode Design Sprint"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "google-insiders",
+                        savoirEtre: "Créativité - Travail d'Équipe - Adaptabilité - ",
+                        contexte: "Un workshop d’une semaine, encadré par des employés de Google et mené exclusivement en anglais, dans lequel mon but était de trouver une solution innovante pour l’utilisation des boîtes mail. J’ai réalisé ce workshop selon la méthode du “Design Sprint”.",
+                        titre: "Google Insiders",
                         sousTitre: "Communication",
                         lien: "https://google.fr"
                     }
