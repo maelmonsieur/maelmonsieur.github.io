@@ -184,7 +184,7 @@ const Donnees = {
             },
             tuiles: [
                 {
-                    image: Maréchal & Brilleaud,
+                    image: mb,
                     gridArea: '1 / 1 / 2 / 4',
                     responsiveGridArea: '3 / 1 / 4 / 3',
                     popup: {
