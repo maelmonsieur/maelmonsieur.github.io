@@ -5,12 +5,7 @@ import Donnees from "../Donnees"
 
 export default function Parcours(props) {
     return(
-    <Bento style={{
-        flexDirection: "column",
-        padding: "20px 50px 50px 50px",
-        marginTop: '50px',
-        backdropFilter: "blur(5px)"
-        }}>
+    <Bento className="container">
         <h1 id="parcours">
             Mon parcours
         </h1>
@@ -19,11 +14,14 @@ export default function Parcours(props) {
             <Div className="column formation">
                 <span className="titre">Formation</span>
                 {Donnees.parcours.formation.map((formation, i) =>
-                <Div key={i} style={{padding: "15px"}} className={"fromleft transition ts delay-"+(i+1)+(formation.avenir && " avenir")}>
+                <Div key={i} style={{padding: "15px"}} className={"fromleft transition ts delay-"+(i+1)+" "+(formation.avenir && "avenir")}>
                     <span className="nom">{formation.nom}</span>
-                    <div className="row">
+                    <div className="row normal">
                         <span className="lieu">{formation.lieu} |&nbsp;</span>
                         <span className="duree">{formation.duree}</span>
+                    </div>
+                    <div className="responsive">
+                        <span className="lieu">{formation.lieu} | {formation.duree}</span>
                     </div>
                     <ul className="ts">
                     {formation.missions.map(mission =>
@@ -35,11 +33,14 @@ export default function Parcours(props) {
             <Div className="column experience">
             <span className="titre">Expériences</span>
                 {Donnees.parcours.experiences.map((experiences, i) =>
-                <Div key={i} style={{padding: "15px"}} className={"fromright transition ts delay-"+(i+1)+(experiences.avenir && " avenir")}>
+                <Div key={i} style={{padding: "15px"}} className={"fromright transition ts delay-"+(i+1)+" "+(experiences.avenir && "avenir")}>
                     <span className="nom">{experiences.nom}</span>
-                    <div className="row">
+                    <div className="row normal">
                         <span className="lieu">{experiences.lieu} |&nbsp;</span>
                         <span className="duree">{experiences.duree}</span>
+                    </div>
+                    <div className="responsive">
+                        <span className="lieu">{experiences.lieu} | {experiences.duree}</span>
                     </div>
                     <ul className="ts">
                     {experiences.missions.map(mission =>

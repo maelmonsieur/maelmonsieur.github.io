@@ -5,11 +5,7 @@ import Donnees from "../Donnees"
 
 export default function Galerie(props) {
     return(
-    <Bento style={{
-        flexDirection: "column",
-        padding: "20px 50px 50px 50px",
-        marginTop: '50px'
-        }}>
+    <Bento className="container">
         <h1 id="parcours">
             Mon parcours
         </h1>

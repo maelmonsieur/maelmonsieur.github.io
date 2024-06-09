@@ -1,11 +1,11 @@
 import './index.css';
 import scrollAnimation from "./assets/img/scroll.json";
 import logo from "./assets/img/logo_m.svg";
-import canards from "./assets/img/banniere.png";
 
 import AnimatedCursor from "react-animated-cursor";
 import Lottie from "react-lottie-player";
 import { ReactLenis } from '@studio-freight/react-lenis';
+import { useMediaQuery } from 'react-responsive'
 
 import Div from "./components/Div";
 import Navbar from './components/Navbar';
@@ -21,12 +21,14 @@ import Merci from './parts/Merci';
 
 function App() {
 
+  const isPhone = useMediaQuery({ query: '(max-width: 1000px)' })
+
   return (
     <div className="app">
           <ReactLenis root>
             <div className="eheheh" />
 
-      <AnimatedCursor
+      {!isPhone && <AnimatedCursor
         innerSize={6}
         outerSize={35}
         innerScale={1}
@@ -41,7 +43,7 @@ function App() {
           backgroundColor: '#ffffff3e',
           backdropFilter: 'blur(2px)'
         }}
-        />
+        />}
       <Navbar />
       <Div className="moi" id="top">
         <DeLa3D />
@@ -59,20 +61,7 @@ function App() {
         <Whoami />
         <ProjetsPro />
         <ProjetsPerso />
-
-        <div style={{
-          position: "relative",
-          left: "-16vw",
-          width: "100vw",
-          height: "250px",
-          background: `url(${canards})`,
-          backgroundPosition: "center",
-          backgroundRepeat: "no-repeat",
-          backgroundSize: "cover",
-          marginTop: "50px",
-          marginBottom: "50px"
-        }} />
-
+        <div className='canards'/>
         <Services />
         <Parcours />
         <Merci />

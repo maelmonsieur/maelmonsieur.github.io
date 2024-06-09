@@ -3,26 +3,22 @@ import Bento from "../components/Bento";
 import ProjetPopup from "../components/ProjetPopup";
 
 import Tilt from 'react-parallax-tilt';
+import { useMediaQuery } from 'react-responsive'
 
 import Donnees from "../Donnees";
 
 export default function ProjetsPro(props) {
           
     const values = Donnees.projets.pro;
+    const isPhone = useMediaQuery({ query: '(max-width: 1000px)' })
 
-    return(<div style={{
-        flexDirection: "column",
-        padding: "50px",
-        marginTop: '50px',
-        backdropFilter: "blur(5px)"
-        }}
-        className="bento"
-        >
-            <h1>Mes projets</h1>
+    return(
+    <div className="bento container">
+            <h1 id="projets">Mes projets</h1>
             <Div style={{
                 display: 'grid',
-                gridTemplateColumns: values.gridTemplateColumns,
-                gridTemplateRows: values.gridTemplateRows,
+                gridTemplateColumns: isPhone ? values.responsiveGridTemplateColumns : values.gridTemplateColumns,
+                gridTemplateRows: isPhone ? values.responsiveGridTemplateRows : values.gridTemplateRows,
                 gap: '15px',
                 width: '100%',
                 height: '700px'
@@ -31,13 +27,14 @@ export default function ProjetsPro(props) {
                     tiltReverse  
                     tiltMaxAngleX={2}
                     tiltMaxAngleY={2}
-                    style={{gridColumn: values.tuileCentrale.gridColumn, gridRow: values.tuileCentrale.gridRow}}
+                    style={{gridArea: isPhone ? values.tuileCentrale.responsiveGridArea : values.tuileCentrale.gridArea}}
                 >
                     <Bento img={values.tuileCentrale.image} style={{width: '100%', height: '100%', borderRadius: '25px'}}/> {/* Milieu */}
                 </Tilt>
 
                 {values.tuiles.map(projet => 
-                    <ProjetPopup key={projet.popup.titre} childElem={Bento} className="little hover" popup={projet.popup} img={projet.image} style={{gridColumn: projet.gridColumn, gridRow: projet.gridRow}} />
+                    <ProjetPopup key={projet.popup.titre} childElem={Bento} className="little hover" popup={projet.popup} img={projet.image}
+                    style={{gridArea: isPhone ? projet.responsiveGridArea : projet.gridArea}} />
                 )}
             </Div>
     </div>)

@@ -6,12 +6,7 @@ import Donnees from "../Donnees";
 
 export default function Whoami(props) {
     return(
-    <Bento style={{
-        flexDirection: "column",
-        padding: "20px 50px 50px 50px",
-        marginTop: '50px',
-        backdropFilter: "blur(5px)"
-    }}>
+    <Bento className="container">
         <h1 id="whoami">
             Qui suis-je ?
         </h1>

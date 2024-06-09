@@ -4,6 +4,26 @@ import { SiAdobephotoshop, SiFigma  } from "react-icons/si";
 //import { BiLogoBlender } from "react-icons/bi";
 //import { FaWordpress } from "react-icons/fa";
 
+import mb from "./assets/img/mb.jpg"
+import troisde from "./assets/img/3d.jpg"
+import abask from "./assets/img/abask.jpg"
+import aquarium from "./assets/img/aquarium.jpg"
+import as from "./assets/img/as.jpg"
+import ecole_du_gout from "./assets/img/ecole_du_gout.jpg"
+import fablab from "./assets/img/fablab.jpg"
+import fast_collect from "./assets/img/fast_collect.jpg"
+import google from "./assets/img/google.jpg"
+import iut_lannion from "./assets/img/iut_lannion.jpg"
+import mmi_crea from "./assets/img/mmi_crea.jpg"
+import oes from "./assets/img/oes.jpg"
+import rapas from "./assets/img/rapas.jpg"
+import rborho from "./assets/img/rborho.jpg"
+import rhodes from "./assets/img/rhodes.jpg"
+import waf from "./assets/img/waf.jpg"
+import personal_comp from "./assets/img/personal_comp.jpg"
+import client_comp from "./assets/img/client_comp.jpg"
+
+
 const Donnees = {
     quiSuisJe: {
         description: "Bienvenue sur mon portfolio !\n\nMoi c'est Maël Le Dû, un étudiant de 22 ans en BUT MMI passionné par le design graphique et la musique. Découvrez à travers ce Portfolio mes centres d'intérêts, mon parcours, mes projets, et bien d'autes !\n\nBonne continuation !",
@@ -155,16 +175,18 @@ const Donnees = {
         pro: {
             gridTemplateColumns: '2fr 1fr 2fr 2fr 1fr 2fr',
             gridTemplateRows: '2fr 5fr 2fr',
+            responsiveGridTemplateColumns: 'repeat(2, 1fr)',
+            responsiveGridTemplateRows: 'repeat(6, 1fr)',
             tuileCentrale: {
-                gridColumn: '2 / 6',
-                gridRow: '2 / 3',
-                image: mael
+                gridArea: '2 / 2 / 3 / 6',
+                responsiveGridArea: '1 / 1 / 3 / 3',
+                image: client_comp
             },
             tuiles: [
                 {
-                    image: mael,
-                    gridColumn: '1 / 4',
-                    gridRow: '1 / 2',
+                    image: mb,
+                    gridArea: '1 / 1 / 2 / 4',
+                    responsiveGridArea: '3 / 1 / 4 / 3',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -199,9 +221,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '4 / 6',
-                    gridRow: '1 / 2',
+                    image: iut_lannion,
+                    gridArea: '1 / 4 / 2 / 6',
+                    responsiveGridArea: '4 / 1 / 5 / 2',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -236,9 +258,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '1 / 2',
-                    gridRow: '2 / 3',
+                    image: fablab,
+                    gridArea: '2 / 1 / 3 / 2',
+                    responsiveGridArea: '4 / 2 / 5 / 3',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -273,9 +295,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '6 / 7',
-                    gridRow: '1 / 3',
+                    image: google,
+                    gridArea: '1 / 6 / 3 / 7',
+                    responsiveGridArea: '5 / 1 / 6 / 2',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -310,9 +332,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '1 / 4',
-                    gridRow: '3 / 4',
+                    image: as,
+                    gridArea: '3 / 1 / 4 / 4',
+                    responsiveGridArea: '5 / 2 / 6 / 3',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -347,9 +369,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '4 / 5',
-                    gridRow: '3 / 4',
+                    image: oes,
+                    gridArea: '3 / 4 / 4 / 5',
+                    responsiveGridArea: '6 / 1 / 7 / 2',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -384,9 +406,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '5 / 7',
-                    gridRow: '3 / 4',
+                    image: aquarium,
+                    gridArea: '3 / 5 / 4 / 7',
+                    responsiveGridArea: '6 / 2 / 7 / 3',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -424,16 +446,18 @@ const Donnees = {
         perso: {
             gridTemplateColumns: '2fr 1fr 2fr 3fr 2fr',
             gridTemplateRows: '2fr 5fr 2fr',
+            responsiveGridTemplateColumns: 'repeat(2, 1fr)',
+            responsiveGridTemplateRows: 'repeat(7, 1fr)',
             tuileCentrale: {
-                gridColumn: '2 / 5',
-                gridRow: '2 / 3',
-                image: mael
+                gridArea: '2 / 2 / 3 / 5',
+                responsiveGridArea: '1 / 1 / 3 / 3',
+                image: personal_comp
             },
             tuiles: [
                 {
-                    image: mael,
-                    gridColumn: '1 / 2',
-                    gridRow: '1 / 2',
+                    image: troisde,
+                    gridArea: '1 / 1 / 2 / 2',
+                    responsiveGridArea: '3 / 1 / 4 / 3',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -468,9 +492,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '2/4',
-                    gridRow: '1 / 2',
+                    image: abask,
+                    gridArea: '1 / 2 / 2 / 4',
+                    responsiveGridArea: '4 / 1 / 5 / 2',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -505,9 +529,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '4/5',
-                    gridRow: '1 / 2',
+                    image: fast_collect,
+                    gridArea: '1 / 4 / 2 / 5',
+                    responsiveGridArea: '4 / 2 / 5 / 3',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -542,9 +566,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '5 / 6',
-                    gridRow: '1 / 2',
+                    image: rapas,
+                    gridArea: '1 / 5 / 2 / 6',
+                    responsiveGridArea: '5 / 1 / 6 / 2',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -579,9 +603,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '1/2',
-                    gridRow: '2/3',
+                    image: rborho,
+                    gridArea: '2 / 1 / 3 / 2',
+                    responsiveGridArea: '5 / 2 / 6 / 3',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -616,9 +640,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '5 / 6',
-                    gridRow: '2 / 4',
+                    image: rhodes,
+                    gridArea: '2 / 5 / 4 / 6',
+                    responsiveGridArea: '6 / 1 / 7 / 2',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -653,9 +677,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '1 / 3',
-                    gridRow: '3 / 4',
+                    image: mmi_crea,
+                    gridArea: '3 / 1 / 4 / 3',
+                    responsiveGridArea: '6 / 2 / 7 / 3',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -690,9 +714,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '3 / 4',
-                    gridRow: '3 / 4',
+                    image: ecole_du_gout,
+                    gridArea: '3 / 3 / 4 / 4',
+                    responsiveGridArea: '7 / 1 / 8 / 2',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
@@ -727,9 +751,9 @@ const Donnees = {
                     }
                 },
                 {
-                    image: mael,
-                    gridColumn: '4 / 5',
-                    gridRow: '3 / 4',
+                    image: waf,
+                    gridArea: '3 / 4 / 4 / 5',
+                    responsiveGridArea: '7 / 2 / 8 / 3',
                     popup: {
                         grid: {
                             gridColumn: '2fr 1fr 2fr 3fr 2fr',
