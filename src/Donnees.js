@@ -331,7 +331,7 @@ const Donnees = {
                         savoirEtre: "Créativité - Travail d'Équipe - Adaptabilité - ",
                         contexte: "Un workshop d’une semaine, encadré par des employés de Google et mené exclusivement en anglais, dans lequel mon but était de trouver une solution innovante pour l’utilisation des boîtes mail. J’ai réalisé ce workshop selon la méthode du “Design Sprint”.",
                         titre: "Google Insiders",
-                        sousTitre: "Communication",
+                        sousTitre: "UX Design",
                         lien: "https://google.fr"
                     }
                 },
@@ -358,16 +358,16 @@ const Donnees = {
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
-                            {nom: "Figma", Component: SiFigma}
+                            {nom: "Premiere Pro", Component: SiAdobepremierepro}
                         ],
                         missions: [
                             "tueur",
                             "chatouilleur",
                             "donner a manger a mon gros chat"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "armor-science",
+                        savoirEtre: "Travail d'équipe - Analyse des besoins - Créativité - Adaptabilité - Autonomie - ",
+                        contexte: "ArmorScience est une association basée à Pleumeur-Bodou, qui oeuvre pour la diffusion de la culture scientifique en Bretagne. Lors de ma première année de BUT MMI, j’ai collaboré avec des membres de cette association dans le but de développer leur communication.",
+                        titre: "Armor Science",
                         sousTitre: "Communication",
                         lien: "https://google.fr"
                     }
