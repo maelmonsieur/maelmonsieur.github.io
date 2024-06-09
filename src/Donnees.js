@@ -481,18 +481,18 @@ const Donnees = {
                             {src: mael, gridArea: '3 / 4 / 4 / 5'}
                         ],
                         logiciels: [
-                            {nom: "Photoshop", Component: SiAdobephotoshop},
-                            {nom: "Figma", Component: SiFigma}
+                            {nom: "Blender", Component: BiLogoBlender}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Modélisation du personnage",
+                            "Gestion des lumières et de la caméra",
+                            "Composition de la scène",
+                            "Recherche de tutoriel et apprentissage de nouvelles méthodes"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "pop",
-                        sousTitre: "Communication",
+                        savoirEtre: "Créativité - Autodidactie - Persévérance - ",
+                        contexte: "J’ai crée sur Blender un packshot de figurine Funko Pop à mon effigie. Ce projet m’a permis de grandement m’améliorer sur Blender et c’est l’un des projets dont je suis le plus satisfait !",
+                        titre: "Funko Pop Maëlito",
+                        sousTitre: "3D",
                         lien: "https://google.fr"
                     }
                 },
