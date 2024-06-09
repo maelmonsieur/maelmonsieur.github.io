@@ -245,17 +245,17 @@ const Donnees = {
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
-                            {nom: "Figma", Component: SiFigma}
+                            {nom: "Illustrator", Component: SiAdobeillustrator}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Recherche d’informations et rédaction du scénario",
+                            "Création du Storyboard",
+                            "Montage du Motion Design"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "iut-motion",
-                        sousTitre: "Communication",
+                        savoirEtre: "Autonomie - Autodidactie - Créativité - Curiosité - ",
+                        contexte: "Lors de ma 2nde année de BUT MMI, j’ai crée un motion design ayant pour but de dynamiser la vidéo de présentation des consignes de sécurité de l’IUT. Celle ci est montrée aux nouveaux étudiants à chaque rentrée !",
+                        titre: "Motion Design IUT Lannion",
+                        sousTitre: "Audio-Visuel",
                         lien: "https://google.fr"
                     }
                 },
