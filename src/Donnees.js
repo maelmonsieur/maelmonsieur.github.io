@@ -94,9 +94,9 @@ const Donnees = {
                 lieu: "MyDigitalSchool - 35 000 Rennes",
                 duree: "2024 - 2026",
                 missions: [
-                    "mission con",
-                    "mission 2",
-                    "mission 3"
+                    "Graphisme / Motion Design / 3D",
+                    "Design d'Expérience (UX / UI)",
+                    "Marketing / Communication"
                 ],
                 avenir: true
             },
