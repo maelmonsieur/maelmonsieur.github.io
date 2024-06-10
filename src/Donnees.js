@@ -254,7 +254,7 @@ const Donnees = {
                         contexte: "Lors de ma 2nde année de BUT MMI, j’ai crée un motion design ayant pour but de dynamiser la vidéo de présentation des consignes de sécurité de l’IUT. Celle ci est montrée aux nouveaux étudiants à chaque rentrée !",
                         titre: "Motion Design IUT Lannion",
                         sousTitre: "Audio-Visuel",
-                        lien: "https://google.fr"
+                        lien: "https://drive.google.com/file/d/1LCYMovjL2dUUcgHkRvkaRUtn1_gg8-Ab/view?usp=sharing"
                     }
                 },
                 {
