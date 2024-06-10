@@ -589,19 +589,20 @@ const Donnees = {
                             {src: mael, gridArea: '3 / 4 / 4 / 5'}
                         ],
                         logiciels: [
-                            {nom: "Photoshop", Component: SiAdobephotoshop},
-                            {nom: "Figma", Component: SiFigma}
+                            {nom: "Illustrator", Component: SiAdobeillustrator},
+                            {nom: "Premiere Pro", Component: SiAdobepremierepro},
+                            {nom: "After Effects", Component: SiAdobeaftereffects}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Création du logo et de l'identité visuelle",
+                            "Création de vidéos, montage et écriture",
+                            "Élaboration du plan de communication"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "rapas",
-                        sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        savoirEtre: "Créativité - Autonomie - Analyse des besoins - ",
+                        contexte: "Avec un ami, nous avons créé un media Rap présent sur Instagram et Tiktok, qui œuvre pour la déconstruction des clichés de ce genre musical.",
+                        titre: "Rap'As",
+                        sousTitre: "Audio-Visuel",
+                        lien: "https://www.tiktok.com/@rap_as_?_t=8n55qks6ptI&_r=1"
                     }
                 },
                 {
