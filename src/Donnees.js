@@ -485,7 +485,7 @@ const Donnees = {
                             "Modélisation du personnage",
                             "Gestion des lumières et de la caméra",
                             "Composition de la scène",
-                            "Recherche de tutoriel et apprentissage de nouvelles méthodes"
+                            "Recherche de tutoriels et apprentissage de nouvelles méthodes"
                         ],
                         savoirEtre: "Créativité - Autodidactie - Persévérance - ",
                         contexte: "J’ai crée sur Blender un packshot de figurine Funko Pop à mon effigie. Ce projet m’a permis de grandement m’améliorer sur Blender et c’est l’un des projets dont je suis le plus satisfait !",
@@ -665,18 +665,18 @@ const Donnees = {
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
-                            {nom: "Figma", Component: SiFigma}
+                            {nom: "Illustrator", Component: SiAdobeillustrator},
+                            {nom: "Blender", Component: BiLogoBlender}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Créer l’identité visuelle de la marque",
+                            "Réfléchir à un plan de communication",
+                            "Créer les designs de vêtements et les collections"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "rhodes",
-                        sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        savoirEtre: "Créativité - Autodidactie - Curiosité - ",
+                        contexte: "Avec mon meilleur ami, nous créons une marque de vêtements, c’est un projet amusant et enrichissant mêlant direction artistique, graphisme, communication, gestion de projet, développement WEB et bien d’autres… Retrouvez nous très bientôt dans tous les Pop-Up Store !",
+                        titre: "Rhodes",
+                        sousTitre: "Graphisme"
                     }
                 },
                 {
