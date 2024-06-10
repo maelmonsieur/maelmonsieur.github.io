@@ -626,19 +626,17 @@ const Donnees = {
                             {src: mael, gridArea: '3 / 4 / 4 / 5'}
                         ],
                         logiciels: [
-                            {nom: "Photoshop", Component: SiAdobephotoshop},
-                            {nom: "Figma", Component: SiFigma}
+                            {nom: "Illustrator", Component: SiAdobeillustrator}
                         ],
                         missions: [
                             "tueur",
                             "chatouilleur",
                             "donner a manger a mon gros chat"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "rborho",
-                        sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        savoirEtre: "Créativité - Autodidactie - Curiosité - ",
+                        contexte: "Lors de ma première année de BUT MMI, j’ai eu pour objectif de créer un logo pour une marque fictive de cosmétique haut de gamme nommée Rborho. Cet exercice m’a appris à utiliser les logiciels d’illustrations vectorielles, et à présenter mon projet à un client.",
+                        titre: "Rborho",
+                        sousTitre: "Graphisme"
                     }
                 },
                 {
