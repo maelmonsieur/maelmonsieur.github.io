@@ -167,7 +167,7 @@ export function PopupContent({ values, hide, reference, canPlay }) {
 
                 {/* Footer (lien) */}
                 {!isPhone && <div className="row center">
-                    <a style={{marginTop: "25px", fontSize: "15px"}} href={values.lien} target="_blank" rel="noreferrer">Voir le projet</a>
+                  {values.lien && <a style={{marginTop: "25px", fontSize: "15px"}} href={values.lien} target="_blank" rel="noreferrer">Voir le projet</a>}
                 </div>}
 
             </div>
