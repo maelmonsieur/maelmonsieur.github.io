@@ -397,15 +397,16 @@ const Donnees = {
                             {nom: "Figma", Component: SiFigma}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Réfléchir à de nouvelles perspectives d’emploi et à un concept innovant",
+                            "Étudier le marché et l’environnement de l’association ",
+                            "Respecter la démarche RSE",
+                            "Défendre son projet auprès du client"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "oes-quimper",
+                        savoirEtre: "Analyse des besoins - Travail d'équipe - ",
+                        contexte: "OES Quimper est une association qui a pour objectif d’aider à l’insertion sociale et professionnelle. Lors de ce workshop encadré par un membre de l’association, notre but était de trouver une solution pour élargir leurs offres d’emploi, en respectant une démarche RSE.",
+                        titre: "OES Quimper",
                         sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        lien: "https://www.canva.com/design/DAGHvKPhwOk/kHUiCjGWeGcB8UP7boRBpw/edit?utm_content=DAGHvKPhwOk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                     }
                 },
                 {
