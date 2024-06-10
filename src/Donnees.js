@@ -736,19 +736,19 @@ const Donnees = {
                             {src: mael, gridArea: '3 / 4 / 4 / 5'}
                         ],
                         logiciels: [
-                            {nom: "Photoshop", Component: SiAdobephotoshop},
                             {nom: "Figma", Component: SiFigma}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Création de l’identité visuelle",
+                            "Création du business model et business plan",
+                            "Gestion des ressources ",
+                            "Planification sur 5 ans"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "ecole du prout",
+                        savoirEtre: "Analyse des besoins - Travail d'équipe - Curiosité - Autonomie - ",
+                        contexte: "L’École du Goût est un atelier de cuisine fictif, créé à l’occasion d’un Serious Game, un workshop d’une semaine ayant pour but de créer et faire évoluer son entreprise.",
+                        titre: "Lécole du goût",
                         sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        lien: "https://www.canva.com/design/DAGHvbf2fo8/qCG69tK19oLcMHgiMYbNcA/edit?utm_content=DAGHvbf2fo8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                     }
                 },
                 {
