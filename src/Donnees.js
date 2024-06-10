@@ -280,18 +280,19 @@ const Donnees = {
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
-                            {nom: "Figma", Component: SiFigma}
+                            {nom: "Illustrator", Component: SiAdobeillustrator},
+                            {nom: "After Effects", Component: SiAdobeaftereffects}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Réaliser une veille du monde du streaming et de celui des FabLabs",
+                            "Créer l’identité visuelle du FabLab",
+                            "Rendre les informations accessibles et compréhensibles pour le client"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "fablab",
+                        savoirEtre: "Créativité - Travail d'équipe - Analyse des besoins - ",
+                        contexte: "Ce projet a été réalisé en collaboration avec le Fablab de Lannion. Le but était de renforcer l’attractivité l’attractivité du Fablab en proposant une nouvelle activité, ici optimiser l’espace streaming.",
+                        titre: "Fablab",
                         sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        lien: "https://www.canva.com/design/DAGHvF0xc5Q/kqup48zEKNgNax2yvkocSg/edit?utm_content=DAGHvF0xc5Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                     }
                 },
                 {
