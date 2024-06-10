@@ -773,19 +773,19 @@ const Donnees = {
                             {src: mael, gridArea: '3 / 4 / 4 / 5'}
                         ],
                         logiciels: [
-                            {nom: "Photoshop", Component: SiAdobephotoshop},
+                            {nom: "Illustrator", Component: SiAdobeillustrator},
                             {nom: "Figma", Component: SiFigma}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Création de l’identité visuelle et récolte d’éléments visuels",
+                            "Réflexion sur l’ergonomie et l’UX",
+                            "Maquettage du site"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "waf",
-                        sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        savoirEtre: "Créativité - Analyse des besoins - Travail d'équipe - ",
+                        contexte: "Waf.fr, le site qui a du chien ! Le but de ce projet était de créer une maquette (ici de vente de vêtements pour chiens) axée sur l’ergonomie et l’Expérience Utilisateur.",
+                        titre: "Waf.fr",
+                        sousTitre: "Développement Web",
+                        lien: "https://www.figma.com/proto/LAqltAgN8Nl8B9leDHMbPx/Untitled?node-id=2-2&starting-point-node-id=2%3A2&t=dSPOpsTHl17NASwK-1"
                     }
                 }
         ]}
