@@ -368,8 +368,7 @@ const Donnees = {
                         savoirEtre: "Travail d'équipe - Analyse des besoins - Créativité - Adaptabilité - Autonomie - ",
                         contexte: "ArmorScience est une association basée à Pleumeur-Bodou, qui oeuvre pour la diffusion de la culture scientifique en Bretagne. Lors de ma première année de BUT MMI, j’ai collaboré avec des membres de cette association dans le but de développer leur communication.",
                         titre: "Armor Science",
-                        sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        sousTitre: "Communication"
                     }
                 },
                 {
@@ -493,7 +492,6 @@ const Donnees = {
                         contexte: "J’ai crée sur Blender un packshot de figurine Funko Pop à mon effigie. Ce projet m’a permis de grandement m’améliorer sur Blender et c’est l’un des projets dont je suis le plus satisfait !",
                         titre: "Funko Pop Maëlito",
                         sousTitre: "3D",
-                        lien: "https://google.fr"
                     }
                 },
                 {
@@ -521,15 +519,15 @@ const Donnees = {
                             {nom: "Figma", Component: SiFigma}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Analyser l’environnement de la structure",
+                            "Réaliser la stratégie éditoriale de l’entreprise",
+                            "Créer le media planning et la stratégie d’influence de la structure"
                         ],
                         savoirEtre: "Curiosité - Analyse des besoins - Créativité - Adaptabilité - ",
                         contexte: "Abask est un site de vente d’objets design et décoratifs haut de gamme. Le but de ce projet, encadré par un ancien employé d’Abask, était d’améliorer et de dynamiser sa communication digitale.",
                         titre: "Abask",
                         sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        lien: "https://www.canva.com/design/DAGHvfZ9ve0/wAdNCWwOvObjt_JjaFb7SA/edit?utm_content=DAGHvfZ9ve0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                     }
                 },
                 {
