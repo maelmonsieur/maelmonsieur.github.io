@@ -330,7 +330,7 @@ const Donnees = {
                         contexte: "Un workshop d’une semaine, encadré par des employés de Google et mené exclusivement en anglais, dans lequel mon but était de trouver une solution innovante pour l’utilisation des boîtes mail. J’ai réalisé ce workshop selon la méthode du “Design Sprint”.",
                         titre: "Google Insiders",
                         sousTitre: "UX Design",
-                        lien: "https://google.fr"
+                        lien: "https://www.canva.com/design/DAGHvFE5A3I/QmwtUOpRxZhG9qgxkt7rCg/edit?utm_content=DAGHvFE5A3I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                     }
                 },
                 {
