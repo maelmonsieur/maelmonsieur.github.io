@@ -748,7 +748,7 @@ const Donnees = {
                         contexte: "L’École du Goût est un atelier de cuisine fictif, créé à l’occasion d’un Serious Game, un workshop d’une semaine ayant pour but de créer et faire évoluer son entreprise.",
                         titre: "Lécole du goût",
                         sousTitre: "Communication",
-                        lien: "https://www.canva.com/design/DAGHvbf2fo8/qCG69tK19oLcMHgiMYbNcA/edit?utm_content=DAGHvbf2fo8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+                        lien: "https://www.canva.com/design/DAGHvkYVtPs/ZXeIz46W1URM8TIIX7Lekw/edit?utm_content=DAGHvkYVtPs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                     }
                 },
                 {
