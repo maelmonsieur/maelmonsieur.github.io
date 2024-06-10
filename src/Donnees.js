@@ -552,19 +552,19 @@ const Donnees = {
                             {src: mael, gridArea: '3 / 4 / 4 / 5'}
                         ],
                         logiciels: [
-                            {nom: "Photoshop", Component: SiAdobephotoshop},
+                            {nom: "PremierePro", Component: SiAdobepremierepro},
                             {nom: "Figma", Component: SiFigma}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Trouver une solution pour améliorer le RU, selon une méthode d’UX Design",
+                            "Maquettage de l’application ",
+                            "Création d’une vidéo promotionnelle"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "fast-collect",
-                        sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        savoirEtre: "Analyse des besoins - Travail d'équipe - Autonomie - ",
+                        contexte: "Fast Collect est une application mobile fictive qui a pour but d’améliorer le Restaurant Universitaire, grâce à un système de Click & Collect.",
+                        titre: "Fast Collect",
+                        sousTitre: "UX Design",
+                        lien: "https://www.canva.com/design/DAGHvi7MIlY/PV_kAqhsL1MGW7PLo40npg/edit?utm_content=DAGHvi7MIlY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                     }
                 },
                 {
