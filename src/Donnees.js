@@ -24,7 +24,7 @@ import client_comp from "./assets/img/client_comp.jpg"
 
 const Donnees = {
     quiSuisJe: {
-        description: "Bienvenue sur mon portfolio !\n\nMoi c'est Maël Le Dû, un étudiant de 22 ans en BUT MMI passionné par le design graphique et la musique. Découvrez à travers ce Portfolio mes centres d'intérêts, mon parcours, mes projets, et bien d'autes !\n\nBonne continuation !",
+        description: "Bienvenue sur mon portfolio !\n\n Moi c'est Maël Le Dû, un étudiant de 22 ans en BUT MMI passionné par le design graphique, le cinéma et la musique. Découvrez à travers ce Portfolio mon parcours, mes projets, et bien plus encore !\n\n À la rentrée de Septembre 2024 j’intègre le MBA Direction Artistique Digital de MyDigitalSchool à Rennes, je recherche donc une alternance ! Grâce à ce portfolio, découvrez les prestations que je saurai vous fournir, n’hésitez pas à me contacter si je suis le profil idéal pour votre projet ! \n\nBonne lecture !",
         image: mael
     },
     services: {
