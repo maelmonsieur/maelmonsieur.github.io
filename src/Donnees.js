@@ -516,7 +516,6 @@ const Donnees = {
                             {src: mael, gridArea: '3 / 4 / 4 / 5'}
                         ],
                         logiciels: [
-                            {nom: "Photoshop", Component: SiAdobephotoshop},
                             {nom: "Figma", Component: SiFigma}
                         ],
                         missions: [
@@ -524,9 +523,9 @@ const Donnees = {
                             "chatouilleur",
                             "donner a manger a mon gros chat"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "abask",
+                        savoirEtre: "Curiosité - Analyse des besoins - Créativité - Adaptabilité - ",
+                        contexte: "Abask est un site de vente d’objets design et décoratifs haut de gamme. Le but de ce projet, encadré par un ancien employé d’Abask, était d’améliorer et de dynamiser sa communication digitale.",
+                        titre: "Abask",
                         sousTitre: "Communication",
                         lien: "https://google.fr"
                     }
