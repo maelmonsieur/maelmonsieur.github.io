@@ -700,18 +700,18 @@ const Donnees = {
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
-                            {nom: "Figma", Component: SiFigma}
+                            {nom: "Figma", Component: SiFigma},
+                            {nom: "WordPress", Component: FaWordpress}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Récolte et tri des créations",
+                            "Maquettage du site WEB",
+                            "Développement du site WEB"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "mmi-crea",
-                        sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        savoirEtre: "Créativité - Autodidactie - ",
+                        contexte: "Créa MMI est une boutique fictive, sur laquelle sont mis en vente des créations (prints, autoportraits,…) réalisés par les étudiants MMI. Il existe deux versions de ce projet, une faite avec WordPress et l’autre faite avec Prestashop.",
+                        titre: "Créa MMI",
+                        sousTitre: "Développement Web"
                     }
                 },
                 {
