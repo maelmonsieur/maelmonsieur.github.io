@@ -431,19 +431,19 @@ const Donnees = {
                             {src: mael, gridArea: '3 / 4 / 4 / 5'}
                         ],
                         logiciels: [
-                            {nom: "Photoshop", Component: SiAdobephotoshop},
+                            {nom: "Illustrator", Component: SiAdobeillustrator},
                             {nom: "Figma", Component: SiFigma}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Trouver une solution innovante",
+                            "Créer l’identité visuelle de notre attraction",
+                            "Développer le logiciel",
+                            "Créer une vidéo démonstrative du produit"
                         ],
-                        savoirEtre: "Agréable - Consistant - Sourire - Gentil - ",
-                        contexte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas at dolor ultrices, lacinia eros id, fringilla nibh. Suspendisse eget sagittis justo. Duis dictum bibendum odio et fermentum. Sed nec dictum eros.",
-                        titre: "aquarium",
-                        sousTitre: "Communication",
-                        lien: "https://google.fr"
+                        savoirEtre: "Adaptabilité - Travail d'équipe - Créativité - Autodidactie - ",
+                        contexte: "Pour ce projet en collaboration avec l’Aquarium de Trégastel, nous avons créé une attraction interactive fonctionnant avec la technologie Kinect.",
+                        titre: "Aquarium de Trégastel",
+                        sousTitre: "UX Design"
                     }
                 }
         ]},
