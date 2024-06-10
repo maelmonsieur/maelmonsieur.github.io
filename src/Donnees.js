@@ -630,9 +630,9 @@ const Donnees = {
                             {nom: "Illustrator", Component: SiAdobeillustrator}
                         ],
                         missions: [
-                            "tueur",
-                            "chatouilleur",
-                            "donner a manger a mon gros chat"
+                            "Création de différents logo",
+                            "Création d’un Brandboard",
+                            "Défendre mon projet face à un client"
                         ],
                         savoirEtre: "Créativité - Autodidactie - Curiosité - ",
                         contexte: "Lors de ma première année de BUT MMI, j’ai eu pour objectif de créer un logo pour une marque fictive de cosmétique haut de gamme nommée Rborho. Cet exercice m’a appris à utiliser les logiciels d’illustrations vectorielles, et à présenter mon projet à un client.",
