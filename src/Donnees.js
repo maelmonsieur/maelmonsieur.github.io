@@ -208,16 +208,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: mael, gridArea: '2 / 2 / 3 / 5'},
-                            {src: mael, gridArea: '1 / 1 / 2 / 2'},
-                            {src: mael, gridArea: '1 / 2 / 2 / 4'},
-                            {src: mael, gridArea: '1 / 4 / 2 / 5'},
-                            {src: mael, gridArea: '1 / 5 / 2 / 6'},
-                            {src: mael, gridArea: '2 / 1 / 3 / 2'},
-                            {src: mael, gridArea: '2 / 5 / 4 / 6'},
-                            {src: mael, gridArea: '3 / 1 / 4 / 3'},
-                            {src: mael, gridArea: '3 / 3 / 4 / 4'},
-                            {src: mael, gridArea: '3 / 4 / 4 / 5'}
+                            {src: mb_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
