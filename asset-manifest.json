@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.427d012f.css",
-    "main.js": "/static/js/main.4003a63f.js",
+    "main.js": "/static/js/main.744c47c0.js",
     "static/media/banniere.png": "/static/media/banniere.6ede8c87cff416019164.png",
     "static/media/logo_portfolio.glb": "/static/media/logo_portfolio.5f3aedd999f43b206d59.glb",
     "static/media/background.jpg": "/static/media/background.c36c4d8f02a1d5bb93fc.jpg",
@@ -17,15 +17,30 @@
     "static/media/client_comp.jpg": "/static/media/client_comp.c6aacc2136f008d556ea.jpg",
     "static/media/rhodes.jpg": "/static/media/rhodes.43cb948c5c3f43c676a8.jpg",
     "static/media/mmi_crea.jpg": "/static/media/mmi_crea.46a4811d1300d3d4ef0a.jpg",
+    "static/media/mb_p.jpg": "/static/media/mb_p.cca00018f8359368db9f.jpg",
     "static/media/logo.png": "/static/media/logo.18db9ed7bca1b5979bd5.png",
+    "static/media/fast_p.jpg": "/static/media/fast_p.db0b49324c909bac3799.jpg",
+    "static/media/abask_p.jpg": "/static/media/abask_p.3979d754d604d397d1ed.jpg",
     "static/media/waf.jpg": "/static/media/waf.f4543e00dc8d16e14294.jpg",
+    "static/media/gout_p.jpg": "/static/media/gout_p.4f272a1eb780e7ff9199.jpg",
     "static/media/fablab.jpg": "/static/media/fablab.d150f0c78b249cc7d2e7.jpg",
+    "static/media/waf_p.jpg": "/static/media/waf_p.5e7e9bbc3dd474c6adb8.jpg",
     "static/media/aquarium.jpg": "/static/media/aquarium.a1e755d9f23928f829a9.jpg",
+    "static/media/aquarium_p.jpg": "/static/media/aquarium_p.4774d8d15279ad53afcf.jpg",
+    "static/media/maelito_p.jpg": "/static/media/maelito_p.8768f62cd3688b23837b.jpg",
     "static/media/oes.jpg": "/static/media/oes.909a390730b3c5265645.jpg",
+    "static/media/rhodes_p.jpg": "/static/media/rhodes_p.3a002a4b92dd6f4abc07.jpg",
     "static/media/Carlo-Regular.woff": "/static/media/Carlo-Regular.74011ddc016590d7affc.woff",
+    "static/media/as_p.jpg": "/static/media/as_p.26c00c1cc3cd28f93889.jpg",
+    "static/media/google_p.jpg": "/static/media/google_p.157581019f777714803a.jpg",
+    "static/media/crea_p.jpg": "/static/media/crea_p.934e0dfbf6f70754fafa.jpg",
+    "static/media/fablab_p.jpg": "/static/media/fablab_p.5d08deade9f12e4019c0.jpg",
+    "static/media/rborho_p.jpg": "/static/media/rborho_p.d365b4bd7d100f9f1551.jpg",
     "static/media/ecole_du_gout.jpg": "/static/media/ecole_du_gout.58f6e82789bd0e76f9a3.jpg",
     "static/media/Carlo-Regular.woff2": "/static/media/Carlo-Regular.5ec82e78f3dd6a01cb4c.woff2",
     "static/media/rapas.jpg": "/static/media/rapas.3bd45ea69ebe9f36ef9b.jpg",
+    "static/media/motion_p.jpg": "/static/media/motion_p.95a8210192a908b9f9f6.jpg",
+    "static/media/rapas_p.jpg": "/static/media/rapas_p.67d67c4b86b045c0090b.jpg",
     "index.html": "/index.html",
     "static/media/ellipse.svg": "/static/media/ellipse.d58d48a6286f69ad7187e2a597f45e23.svg",
     "static/media/patacaisse.svg": "/static/media/patacaisse.9438d5f2e0e6cb223444.svg",
@@ -33,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.427d012f.css",
-    "static/js/main.4003a63f.js"
+    "static/js/main.744c47c0.js"
   ]
 }
