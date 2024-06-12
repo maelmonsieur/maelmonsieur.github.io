@@ -353,7 +353,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: oes_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: oes, gridArea: '3 / 4 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
