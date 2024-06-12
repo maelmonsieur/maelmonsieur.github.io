@@ -238,7 +238,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: motion_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: motion_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
@@ -266,7 +266,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: fablab_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: fablab_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
@@ -295,7 +295,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: google_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: google_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
@@ -325,7 +325,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: as_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: as_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
@@ -353,7 +353,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: oes, gridArea: '3 / 4 / 4 / 5'}
+                            {src: oes, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
@@ -382,7 +382,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: aquarium_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: aquarium_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Illustrator", Component: SiAdobeillustrator},
@@ -422,7 +422,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: maelito_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: maelito_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Blender", Component: BiLogoBlender}
@@ -449,7 +449,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: abask_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: abask_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Figma", Component: SiFigma}
@@ -476,7 +476,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: fast_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: fast_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "PremierePro", Component: SiAdobepremierepro},
@@ -504,7 +504,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: rapas_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: rapas_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Illustrator", Component: SiAdobeillustrator},
@@ -533,7 +533,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: rborho_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: rborho_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Illustrator", Component: SiAdobeillustrator}
@@ -559,7 +559,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: rhodes_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: rhodes_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
@@ -587,7 +587,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: crea_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: crea_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Photoshop", Component: SiAdobephotoshop},
@@ -615,7 +615,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: gout_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: gout_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Figma", Component: SiFigma}
@@ -643,7 +643,7 @@ const Donnees = {
                             gridRow: '2fr 5fr 2fr'
                         },
                         images: [
-                            {src: waf_p, gridArea: '3 / 4 / 4 / 5'}
+                            {src: waf_p, gridArea: '1 / 1 / 4 / 5'}
                         ],
                         logiciels: [
                             {nom: "Illustrator", Component: SiAdobeillustrator},
