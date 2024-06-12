@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.427d012f.css",
-    "main.js": "/static/js/main.744c47c0.js",
+    "main.js": "/static/js/main.0592df40.js",
     "static/media/banniere.png": "/static/media/banniere.6ede8c87cff416019164.png",
     "static/media/logo_portfolio.glb": "/static/media/logo_portfolio.5f3aedd999f43b206d59.glb",
     "static/media/background.jpg": "/static/media/background.c36c4d8f02a1d5bb93fc.jpg",
@@ -13,8 +13,8 @@
     "static/media/as.jpg": "/static/media/as.8d1c5fb1bd896dc242db.jpg",
     "static/media/rborho.jpg": "/static/media/rborho.5b35f0e10d38e9ac3147.jpg",
     "static/media/3d.jpg": "/static/media/3d.786d1097f99667bf9d1a.jpg",
+    "static/media/client_comp.jpg": "/static/media/client_comp.5982f0532f58a9bd3edc.jpg",
     "static/media/abask.jpg": "/static/media/abask.288f4b8997250cc989fc.jpg",
-    "static/media/client_comp.jpg": "/static/media/client_comp.c6aacc2136f008d556ea.jpg",
     "static/media/rhodes.jpg": "/static/media/rhodes.43cb948c5c3f43c676a8.jpg",
     "static/media/mmi_crea.jpg": "/static/media/mmi_crea.46a4811d1300d3d4ef0a.jpg",
     "static/media/mb_p.jpg": "/static/media/mb_p.cca00018f8359368db9f.jpg",
@@ -48,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.427d012f.css",
-    "static/js/main.744c47c0.js"
+    "static/js/main.0592df40.js"
   ]
 }
