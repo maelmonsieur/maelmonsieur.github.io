@@ -21,6 +21,22 @@ import rhodes from "./assets/img/rhodes.jpg"
 import waf from "./assets/img/waf.jpg"
 import personal_comp from "./assets/img/personal_comp.jpg"
 import client_comp from "./assets/img/client_comp.jpg"
+import abask_p from "./assets/img/abask_p.jpg"
+import aquarium_p from "./assets/img/aquarium_p.jpg"
+import as_p from "./assets/img/as_p.jpg"
+import crea_p from "./assets/img/crea_p.jpg"
+import fablab_p from "./assets/img/fablab_p.jpg"
+import fast_p from "./assets/img/fast_p.jpg"
+import google_p from "./assets/img/google_p.jpg"
+import gout_p from "./assets/img/gout_p.jpg"
+import maelito_p from "./assets/img/maelito_p.jpg"
+import mb_p from "./assets/img/mb_p.jpg"
+import motion_p from "./assets/img/motion_p.jpg"
+import rapas_p from "./assets/img/rapas_p.jpg"
+import rborho_p from "./assets/img/rborho_p.jpg"
+import rhodes_p from "./assets/img/rhodes_p.jpg"
+import waf_p from "./assets/img/waf_p.jpg"
+
 
 
 const Donnees = {
