@@ -80,8 +80,8 @@ function App() {
         </Go>
         <Div className="column te" style={{width: "33%"}}>
           <span>Rennes</span>
+          <span>Saint-Nazaire</span>
           <span>Saint-Brieuc</span>
-          <span>Lannion</span>
         </Div>
       </Div>
       { /* content */ }
