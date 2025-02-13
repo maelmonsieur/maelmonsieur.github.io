@@ -41,11 +41,11 @@ import waf_p from "./assets/img/waf_p.jpg"
 
 const Donnees = {
     quiSuisJe: {
-        description: "Bienvenue sur mon portfolio !\n\n Moi c'est Maël Le Dû, un étudiant de 22 ans en BUT MMI passionné par le design graphique, le cinéma et la musique. Découvrez à travers ce Portfolio mon parcours, mes projets, et bien plus encore !\n\n À la rentrée de Septembre 2024 j’intègre le MBA Direction Artistique Digital de MyDigitalSchool à Rennes, je recherche donc une alternance ! Grâce à ce portfolio, découvrez les prestations que je saurai vous fournir, n’hésitez pas à me contacter si je suis le profil idéal pour votre projet ! \n\nBonne lecture !",
+        description: "Bienvenue sur mon portfolio !\n\n Moi c'est Maël Le Dû, un étudiant de 23 ans en BUT MMI passionné par le design graphique, le cinéma et la musique. Découvrez à travers ce Portfolio mon parcours, mes projets, et bien plus encore !\n\n À la rentrée de Septembre 2025 j’intègre le MBA Direction Artistique Digital de MyDigitalSchool à Rennes, je recherche donc une alternance ! Grâce à ce portfolio, découvrez les prestations que je saurai vous fournir, n’hésitez pas à me contacter si je suis le profil idéal pour votre projet ! \n\nBonne lecture !",
         image: mael
     },
     services: {
-        description: "Futur étudiant en MBA Direction Artistique Digitale à Rennes, je suis en recherche d'une alternance pour Septembre 2024. Mon profil vous intéresse ? Voici les domaines dans lesquels je pourrai apporter mon expertise et mes compétences ! N'hésitez pas à me contacter par mail !",
+        description: "Futur étudiant en MBA Direction Artistique Digitale à Rennes, je suis en recherche d'une alternance pour Septembre 2025. Mon profil vous intéresse ? Voici les domaines dans lesquels je pourrai apporter mon expertise et mes compétences ! N'hésitez pas à me contacter par mail !",
         liste: [
             {
                 nom: "Branding",
@@ -107,7 +107,7 @@ const Donnees = {
             {
                 nom: "MBA Direction Artistique Digitale",
                 lieu: "MyDigitalSchool - 35 000 Rennes",
-                duree: "2024 - 2026",
+                duree: "2025 - 2027",
                 missions: [
                     "Graphisme / Motion Design / 3D",
                     "Design d'Expérience (UX / UI)",
