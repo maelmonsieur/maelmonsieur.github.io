@@ -15,7 +15,7 @@ export default function Services(props) {
         <span style={{
             padding: "30px",
             marginBottom: "15px"
-        }}>Futur étudiant en <b>MBA Direction Artistique Digitale à Rennes</b>, je suis en <b>recherche d'une alternance</b> pour Septembre 2024. Mon profil vous intéresse ? Voici les domaines dans lesquels je pourrai apporter <b>mon expertise</b> et <b>mes compétences</b> ! N'hésitez pas à <a href="mailto:mael.ledu.contact@gmail.com">me contacter</a> par mail !</span>
+        }}>Futur étudiant en <b>MBA Direction Artistique Digitale à Rennes</b>, je suis en <b>recherche d'une alternance</b> pour Septembre 2025. Mon profil vous intéresse ? Voici les domaines dans lesquels je pourrai apporter <b>mon expertise</b> et <b>mes compétences</b> ! N'hésitez pas à <a href="mailto:mael.ledu.contact@gmail.com">me contacter</a> par mail !</span>
         <Div className="services-container">
             {services.liste.map(service => 
                 <Div className="service" key={service.nom}>
