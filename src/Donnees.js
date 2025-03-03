@@ -665,7 +665,7 @@ const Donnees = {
     },
     liens: {
         instagram: "instagram.com",
-        linkedin: "linkedin.com"
+        linkedin: "https://www.linkedin.com/in/ma%C3%ABl-le-d%C3%BB-33b609317/"
     }
 }
 
